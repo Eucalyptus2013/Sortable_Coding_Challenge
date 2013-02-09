@@ -1,0 +1,10 @@
+C:\Users\Thierry\Documents\Visual Studio 2010\Projects\Sortable\Sortable\bin\Debug\Sortable.exe
+C:\Users\Thierry\Documents\Visual Studio 2010\Projects\Sortable\Sortable\bin\Debug\Sortable.pdb
+C:\Users\Thierry\Documents\Visual Studio 2010\Projects\Sortable\Sortable\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Thierry\Documents\Visual Studio 2010\Projects\Sortable\Sortable\obj\x86\Debug\Sortable.exe
+C:\Users\Thierry\Documents\Visual Studio 2010\Projects\Sortable\Sortable\obj\x86\Debug\Sortable.pdb
+C:\Users\Thierry\Documents\GitHub\Sortable_Coding_Challenge\Sortable\obj\x86\Debug\Sortable.exe
+C:\Users\Thierry\Documents\GitHub\Sortable_Coding_Challenge\Sortable\obj\x86\Debug\Sortable.pdb
+C:\Users\Thierry\Documents\GitHub\Sortable_Coding_Challenge\Sortable\bin\Debug\Sortable.exe
+C:\Users\Thierry\Documents\GitHub\Sortable_Coding_Challenge\Sortable\bin\Debug\Sortable.pdb
+C:\Users\Thierry\Documents\GitHub\Sortable_Coding_Challenge\Sortable\obj\x86\Debug\ResolveAssemblyReference.cache
